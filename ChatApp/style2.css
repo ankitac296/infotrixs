@@ -1,0 +1,9 @@
+.outgoing .details p{
+background-color: #009cff;
+}
+.incoming .details p{
+    background-color: #97acbe;
+}
+.users header .logout{
+    background-color: red;
+}
